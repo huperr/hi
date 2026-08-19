@@ -6,7 +6,7 @@ async function textChange(txts) {
 		output += txts[txt]
 		console.log(output)
 		t.innerHTML = output
-		await wait(15)
+		await wait(30)
 	}
 }
 const dialogues = [
@@ -27,6 +27,17 @@ const dialogues = [
 	"pls",
 	"pls",
 	"plz",
+	"hmmmmmmm",
+	"if you dont close the tab..",
+	"something bad will happen...",
+	"you will have to see the forbidden page..",
+	"very evil........",
+	"so if i were u",
+	"i would shut down my device RIGHT now..",
+	".......",
+	"still no",
+	"boi",
+	"wawawewaawwaewaeaweaweaw",
 	"ok bye folk"
 ]
 async function dialogue() {
