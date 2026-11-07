@@ -35,9 +35,11 @@ const dialogues = [
 	"so if i were u",
 	"i would shut down my device RIGHT now..",
 	".......",
-	"still no",
+	"still no?",
+	"still life",
 	"boi",
 	"wawawewaawwaewaeaweaweaw",
+	"ok uhh",
 	"ok bye folk"
 ]
 async function dialogue() {
